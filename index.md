@@ -11,7 +11,11 @@ title: Archivo Histórico José Vial
       <p class='gris'>Dicha similitud alberga este archivo, puesto tiene la misión de: conservar, mantener, valorizar y disponibilizar el patrimonio artístico e intelectual de lo que es y será la Escuela de Arquitectura y Diseño PUCV. </p>
       <p class='gris'>Este repositorio presenta una propuesta de diseño front-end para el sitio web del Archivo Histórico, trabajada en conjunto a:</p>
       <p class='rojo'><a href='http://eadpucv.github.io/pyxis/'><span class='pyxis gruesa rojo-claro'>Pyxis</span> <span class='pyxis fino gris'>framework</span></a> & <a href='http://eadpucv.github.io/stampa/'><span class='pyxis naranja-opuesto grues'>Stampa</span></a></p>
+<<<<<<< HEAD
       <a class='mama' href="{{ site.baseurl }}/pags/home-archivo"><i class="icn icn-mano-arriba icn-md texto-cuadro-des"></i>Ir al sitio</a>
+=======
+      <a class='mama' href="http://eadpucv.github.io/Memoire/pags/home-archivo"><i class="icn icn-mano-arriba icn-md texto-cuadro-des"></i>Ir al sitio</a>
+>>>>>>> origin/master
     </div>
   </div>
 </div>
