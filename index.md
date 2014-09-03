@@ -10,7 +10,7 @@ title: Archivo Histórico José Vial
       <p class='gris'>Los archivos son la memoria colectiva e individual de una organización o comunidad. Su tarea principal es preservar esa memoria en el tiempo.</p>
       <p class='gris'>Dicha similitud alberga este archivo, puesto tiene la misión de: conservar, mantener, valorizar y disponibilizar el patrimonio artístico e intelectual de lo que es y será la Escuela de Arquitectura y Diseño PUCV. </p>
       <p class='gris'>Este repositorio presenta una propuesta de diseño front-end para el sitio web del Archivo Histórico, trabajada en conjunto a:</p>
-      <p class='rojo'><a href='http://gabrielaperezponce.github.io/pyxis/'><span class='pyxis gruesa rojo-claro'>Pyxis</span> <span class='pyxis fino gris'>framework</span></a> & <a href='http://gabrielaperezponce.github.io/stampa/'><span class='pyxis naranja-opuesto grues'>Stampa</span></a></p>
+      <p class='rojo'><a href='http://gabrielaperezponce.github.io/pyxis/'><span class='pyxis gruesa rojo-claro'>Pyxis</span> <span class='pyxis fino gris'>framework</span></a> & <a href='{{ site.baseurl }}/stampa/'><span class='pyxis naranja-opuesto grues'>Stampa</span></a></p>
       <a class='mama' href="{{ site.baseurl }}/pags/home-archivo"><i class="icn icn-mano-arriba icn-md texto-cuadro-des"></i>Ir al sitio</a>
     </div>
   </div>
