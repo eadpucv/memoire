@@ -1,4 +1,4 @@
-Memoire
+Mémoire
 =======
 Maquetas navegables para el sitio del Archivo Histórico José Vial Armstrong.
 
