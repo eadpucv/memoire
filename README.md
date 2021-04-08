@@ -7,8 +7,5 @@ Dicha similitud alberga este archivo, puesto tiene la misión de: conservar, man
 
 Este repositorio presenta una propuesta de diseño front-end para el sitio web del Archivo Histórico, trabajada en conjunto a:
 
-- [Pyxis framework] [1]
-- [Stampa] [2]
-
-[1]: http://github.com/eadpucv/pyxis
-[2]: http://github.com/eadpucv/stampa
+- [Pyxis framework](http://github.com/eadpucv/pyxis)
+- [Stampa](http://github.com/eadpucv/stampa)
